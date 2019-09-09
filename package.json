@@ -1,6 +1,6 @@
 {
   "name": "react-hooks-crocode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collections of useful react-hooks",
   "main": "index.js",
   "scripts": {
