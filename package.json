@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks-crocode",
+  "version": "1.0.0",
+  "description": "Collections of useful react-hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luongnv89/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "utils"
+  ],
+  "author": "Luong NGUYEN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luongnv89/react-hooks/issues"
+  },
+  "homepage": "https://github.com/luongnv89/react-hooks#readme"
+}
