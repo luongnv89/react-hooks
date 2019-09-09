@@ -1,7 +1,4 @@
-import useSessionStorage from './src/useSessionStorage';
-import useLocalStorage from './src/useLocalStorage';
+import { useSessionStorage } from "./src/useSessionStorage";
+import { useLocalStorage } from "./src/useLocalStorage";
 
-module.exports = {
-  useSessionStorage,
-  useLocalStorage
-};
+export { useSessionStorage, useLocalStorage };
